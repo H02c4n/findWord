@@ -1,0 +1,24 @@
+{
+    "name": "findword",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "scss": "node-sass -w scss -o assets/css"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/H02c4n/findWord.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/H02c4n/findWord/issues"
+    },
+    "homepage": "https://github.com/H02c4n/findWord#readme",
+    "dependencies": {
+      "node-sass": "^7.0.1"
+    }
+  }
+  
